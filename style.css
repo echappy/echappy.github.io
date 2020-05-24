@@ -1,0 +1,26 @@
+h1{
+    font-size: 18px;
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 12px;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-size: 12px;
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:link{
+    color:black;
+
+}
+
+a:visited{
+    color:palegreen;
+}
