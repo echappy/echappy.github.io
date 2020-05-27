@@ -1,0 +1,67 @@
+
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: "Arial","Candara", serif;
+}
+
+#header{
+    position: absolute; top: 20px; left: 375px;
+}
+
+#incline{
+   position: absolute; top: 125px; left: 310px;
+   font-family: "Arial","Candara", serif;
+   font-size: 14px;
+   text-align: center;
+}
+
+#stairs{
+    position: absolute; top: 180px; left: 260px;
+    padding: 10px;
+    background-color: black;
+}
+
+#snowboard{
+    position: absolute; top: 125px; left: 780px;
+    text-align: center;
+    font-family: "Arial","Candara", serif;
+    font-size: 14px;
+}
+
+#vail{
+    position: absolute; top: 180px; left: 780px;
+    padding: 10px;
+    background-color: black;
+}
+
+#breck{
+    text-align: center;
+    position: absolute; top: 745px; left: 310px;
+    font-family: "Arial","Candara", serif;
+    font-size: 14px;
+}
+
+#crepe{
+    position: absolute; top: 480px; left: 260px;
+    padding: 10px;
+    background-color: black;
+}
+
+#dispo{
+    position: absolute; top: 745px; left: 840px;
+    font-family: "Arial","Candara", serif;
+    text-align: center;
+    font-size: 14px;
+}
+
+#weed{
+    position: absolute; top: 480px; left: 780px;
+    padding: 10px;
+    background-color: black;
+
+}
+
+a:visited{
+    color: blue;
+}
